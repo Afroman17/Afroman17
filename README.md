@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Afroman17
-- 👀 I’m interested in becoming a fullstack developer 
-- 🌱 I’m currently learning Javascript, HTML, CSS and React
+- 👋 Hi, I’m Robert
+- 👀 I’m a Frontend Dev 
+- 🌱 React, Typescript, NextJs. Im interested in learning Flutter and React Native
 - 📫 How to reach me https://www.linkedin.com/in/robert-castro-b7b259212/
